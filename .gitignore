@@ -1,0 +1,14 @@
+# Python
+/.mypy_cache
+**/__pycache__
+/*.egg-info
+
+# VSCode
+/.vscode
+
+# Temporary
+*.out
+
+# Environment
+/.venv
+/.env
