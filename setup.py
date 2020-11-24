@@ -7,7 +7,10 @@ with open('requirements.txt', 'r') as r:
 
 setup(
     name="fs-watcher",
-    version="0.1.0",
+    version="0.1.1",
+    packages=[
+        'fs_watcher'
+    ],
 
     # metadata to display on PyPI
     author="Nico Hanisch",
